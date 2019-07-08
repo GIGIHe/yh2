@@ -346,10 +346,10 @@ header.fixed {
 }
 .table tr td {
   /*width: 1.05rem;*/
-  /*height: 1.2rem;*/
+  height: 1.4rem;
   background: #fff;
   border-right:1px solid #e7e7e7;
-  padding: 0.05rem;
+  /*padding: 0.05rem;*/
 }
 .table tr td h4{
   font:400 .19rem/.85rem "microsoft yahei";
@@ -360,7 +360,7 @@ header.fixed {
 }
 .table tr td .course{
   display: flex;
-  height: 1.2rem;
+  height: 1.4rem;
   flex-direction: column;
   margin: auto;
   justify-content: center;
